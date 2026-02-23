@@ -141,7 +141,7 @@ await client.relayMessage(m.chat, {
 ```javascript
 const thanksFor = async () => {
   const credit = new Map([
-    ["ArulXz Official-ID", ""],
+    ["Арул Цзи Шторм ( 404 )", ""],
     ["yuukey", "main source baileys ( maybe )"]
   ]);
 
