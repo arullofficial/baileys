@@ -129,7 +129,7 @@ await client.relayMessage(m.chat, {
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"kayzen\",\"url\":\"https://t.me/arulofficialll\"}"
+        buttonParamsJson: "{\"display_text\":\"Арул Цзи Шторм ( 𝟒𝟎𝟒 )\",\"url\":\"https://t.me/arulofficialll\"}"
       }
     ],
     priceAmount1000: 72502,
